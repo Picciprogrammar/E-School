@@ -24,9 +24,10 @@ span{
 }
 .b-g{
     background-image: url("pic.1.png");
-    background-color: #F8FFFB;
+    background-color: #F0FFF0;
     background-repeat: no-repeat;
-    background-position: center;
+   background-position: center;
+    padding: 70px;
 }
 .midel-sight{
     margin-top: 50px;
@@ -73,3 +74,8 @@ margin-bottom: 20px;
 #finis-ed{
     text-align: center;
 }
+.hlw{
+
+    vertical-align: bottom;
+}
+   
