@@ -31,10 +31,45 @@ span{
 .midel-sight{
     margin-top: 50px;
 }
-.align-text{
+.b-g2{
+    background-image: url("Student.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.midel-2{
+    margin-top: 50px;
+}
+.mi-del{
+text-align: center;
+margin-bottom: 20px;
+}
+.course-button{
+    text-decoration: none;
+    background-color: #e64a4a;
+    border-radius: 8px;
+    padding: 10px;
+    color: rgb(239, 241, 243);
     
+}
+.text-end{
+    text-align: end;
+}
+.card-footer{
+    background-color: white;
+    border: none;
+}
+.card{
+    border: none;
+    
+}
+.last-sight{
+    background-color: black;
+    margin-top: 50px;
+    color: cornsilk;
+}
+.pa-ding{
+    padding: 40px;
+}
+#finis-ed{
     text-align: center;
-    line-height: 100%;
-    line-height: 24px;
-
 }
